@@ -6,7 +6,7 @@
 This project is all about worldwide Zomato Market and its services availability among different countries. Zomato is an Indian multinational restaurant aggregator and food delivery company. Zomato provides information, menus and user-reviews of restaurants as well as food delivery options from partner restaurants in more than 1,000 Indian cities and towns, as of 2022–23. Zomato rivals Swiggy in food delivery and hyperlocal space. In this Excel Project, I have used excel features to create this interactive dashboard. In this I have shown the connection of Zomato from the whole world and its overall ratings from the whole 15 countries. I have also described the number of restaurants in the countries, types of services available like has online delivery or not, will deliver it now or not and has table booking or not. Through these data I have made a beautiful interactive dashboards that consist of two pages. First one is for Cities wise distribution under Country category and the second one was about the top 3 cities, cuisines, restaurants and localities.
 
 <p align="center">
-<a><img src="" width="700" height="300">
+<a><img src="https://github.com/Ritika821/Zomato-Excel-Data-Analysis/blob/main/Graphs/Zomato.webp" width="700" height="300">
 </a>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -63,73 +63,73 @@ In this Project, I have calculated the total numbers of worldwide restaurant as 
 4. The cuisine that is famous in all over the country is North Indian dishes followed by Chinese and Fast Food and the cuisine that is famous in top country i.e. India is also North Indian dish.
 
 <p align="center">
-<a><img src="" height="200">
+<a><img src="https://github.com/Ritika821/Zomato-Excel-Data-Analysis/blob/main/Graphs/Top%203/Top%203%20Cuisines%20based%20on%20Total%20Restro.png" height="200">
 </a></p>
 
 5. The cuisine that has got the highest voting in the overall world is Pub Food and has got 1998 votes in the overall world, followed by Sunda and Cuban.
 
 <p align="center">
-<a><img src="" height="200">
+<a><img src="https://github.com/Ritika821/Zomato-Excel-Data-Analysis/blob/main/Graphs/Top%203/Top%203%20Cuisines%20based%20on%20Votings.png" height="200">
 </a></p>
 
 6. The locality that is worldwide famous for restaurants and has got the highest average voting is Azad Nagar and has got 5145 votes which belongs to country India, followed by Koramangala 5th Block and Park Street Area.
 
 <p align="center">
-<a><img src="" height="200">
+<a><img src="https://github.com/Ritika821/Zomato-Excel-Data-Analysis/blob/main/Graphs/Top%203/Top%203%20Locality%20based%20on%20Voting.png" height="200">
 </a></p>
 
 7. The restaurant that has got highest number of votings is Toit that has got 10934 votings and belongs to country India, followed by Hauz Khas Social and Peter Cat.
 
 <p align="center">
-<a><img src="" height="200">
+<a><img src="https://github.com/Ritika821/Zomato-Excel-Data-Analysis/blob/main/Graphs/Top%203/Top%203%20Restro%20based%20on%20Votings.png" height="200">
 </a></p>
 
 8. City Bangalore is worldwide famous in case of restaurants and has got maximum number of average votings i.e. 2806 votes and belongs to country India, followed by Kolkata and Mumbai.
 
 <p align="center">
-<a><img src="" height="200">
+<a><img src="https://github.com/Ritika821/Zomato-Excel-Data-Analysis/blob/main/Graphs/Top%203/Top%203%20Cities%20based%20on%20Votings.png" height="200">
 </a></p>
 
 9. City New Delhi has the maximum number of restaurants in the world and is belongs to country India, followed by Guragaon and Noida.
 
 <p align="center">
-<a><img src="" height="200">
+<a><img src="https://github.com/Ritika821/Zomato-Excel-Data-Analysis/blob/main/Graphs/Top%203/Top%203%20Cities%20based%20on%20Total%20Restro.png" height="200">
 </a></p>
 
 10. The most common rating that most of the country's restaurants have got is Average Rating with Orange Colour and the rating that is common in the top country i.e. India is also Average Rating.
 
 <p align="center">
-<a><img src="" height="200">
+<a><img src="https://github.com/Ritika821/Zomato-Excel-Data-Analysis/blob/main/Graphs/City%20Wise/Service%20Rating.png" height="200">
 </a></p>
 
 11. The currency that has got the highest average voting is Indonesian Rupiah (IDR) that has got 772 votes and belongs to country Indonesia.
 
 <p align="center">
-<a><img src="" height="200">
+<a><img src="https://github.com/Ritika821/Zomato-Excel-Data-Analysis/blob/main/Graphs/City%20Wise/Currency%20wise%20Average%20Voting.png" height="200">
 </a></p>
 
 12. The most common price range rating that most of the country's restaurants have got is 1 i.e. Affordable and the rating that is common in the top country i.e. India is also 1 mean Affordable.
 
 <p align="center">
-<a><img src="" height="200">
+<a><img src="https://github.com/Ritika821/Zomato-Excel-Data-Analysis/blob/main/Graphs/City%20Wise/Price%20Range%20Rating.png" height="200">
 </a></p>
 
 13. The city that has the highest average cost for two persons is Jakarta which belongs from country Indonesia followed by Tangerang and Bogor and the city that has the least average cost for two persons is Miller followed by Inverloch and Lakes Entrance.
 
 <p align="center">
-<a><img src="" height="200">
+<a><img src="https://github.com/Ritika821/Zomato-Excel-Data-Analysis/blob/main/Graphs/City%20Wise/City%20wise%20Average%20Cost%20for%20Two.png" height="200">
 </a></p>
 
-14. The city that has got the highest average votings is Bangalore which belongs from country India followed by Kolkata and Mumbai and the city that has the least average cost for two persons is Consort followed by Cochrane and Potrero.
+14. The city that has got the highest average votings is Bangalore which belongs from country India followed by Kolkata and Mumbai and the city that has got the least average voting is Consort followed by Cochrane and Potrero.
 
 <p align="center">
-<a><img src="" height="200">
+<a><img src="https://github.com/Ritika821/Zomato-Excel-Data-Analysis/blob/main/Graphs/City%20Wise/City%20wise%20Average%20Votes.png" height="200">
 </a></p>
 
-15. The city that has the highest number of restaurants is New Delhi which belongs from country India followed by Gurgaon and Noida and the city that has the least average cost for two persons is Cochrane followed by Mayfield and Quezon City.
+15. The city that has the highest number of restaurants is New Delhi which belongs from country India followed by Gurgaon and Noida and the city that has the least number of restaurants is Cochrane followed by Mayfield and Quezon City.
 
 <p align="center">
-<a><img src="" height="200">
+<a><img src="https://github.com/Ritika821/Zomato-Excel-Data-Analysis/blob/main/Graphs/City%20Wise/City%20wise%20Total%20Restaurant.png" height="200">
 </a></p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
