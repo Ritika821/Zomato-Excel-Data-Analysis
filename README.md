@@ -14,15 +14,14 @@ This project is all about worldwide Zomato Market and its services availability 
 
 ## This Project Includes :
 
-- **Identifing the Problem :** Firstly understood the data and its different variables through my analytical skills.
-- **Data Cleaning and Processing :** Converted the data into Table with Filters, removed all dublicate values, changed data type, used text to column technique to seperate the columns and use of Vlookup etc.
+- **Identifying the Problem :** Firstly understood the data and its different variables through my analytical skills.
+- **Data Cleaning and Processing :** Converted the data into Table with Filters, removed all duplicate values, changed data type, used text to column technique to separate the columns and use of VLOOKUP etc.
 - **Performing Descriptive Analysis :** Inserted different meaningful Pivot table from the processed data and generated KPI from that Pivot.
-- **Data Visualization :** Constructed various significant insights in order to derive relevant informations from Pivot Chart.
-- **Enhanced Formating :** Altered the format of the Charts with the help of Format Painter.
+- **Data Visualization :** Constructed various significant insights in order to derive relevant information from Pivot Chart.
+- **Enhanced Formatting :** Altered the format of the Charts with the help of Format Painter.
 - **Creation of Dashboard :** Created a meaningful dashboards by compiling all the relevant charts together and also inserted additional features like Slicers, Buttons from Macros, Scroll Bar from Developers etc.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 ## Project KPI :
 
@@ -38,15 +37,15 @@ In this Project, I have calculated the total numbers of worldwide restaurant as 
 3. How many restaurants have table booking service on the worldwide basis ?
 4. Which cuisine is famous in all the countries restaurants and which one is famous in the top country restaurants ?
 5. Which cuisine has got highest voting worldwide than others ?
-6. Which locality is worldwide famous in case of rastaurant based on votings and from which country does it belong ?
-7. Which restaurant is worldwide famous based on votings and from which country does it belong ?
-8. Which are the top 3 cities that are worldwide famous in case of rastaurant based on votings ?
+6. Which locality is worldwide famous in case of restaurant based on voting and from which country does it belong ?
+7. Which restaurant is worldwide famous based on voting and from which country does it belong ?
+8. Which are the top 3 cities that are worldwide famous in case of restaurant based on voting ?
 9. Which are the top 3 cities that have highest number of restaurants in overall the world ?
 10. What rating, most of the restaurants has got on the worldwide basis and what rating, top country has got ?
 11. Which currency has got the highest average voting than other currencies ?
 12. What was the common price range rating of the overall restaurants and what does top country has got ?
 13. Which city has the highest average cost for two person on the basis of overall restaurant and from which country does it belong ?
-14. Which city has the highest average votings on the basis of overall restaurant and from which country does it belong ?
+14. Which city has the highest average voting on the basis of overall restaurant and from which country does it belong ?
 15. Which city has the highest number of restaurants and from which country does it belong ?
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -78,19 +77,19 @@ In this Project, I have calculated the total numbers of worldwide restaurant as 
 <a><img src="https://github.com/Ritika821/Zomato-Excel-Data-Analysis/blob/main/Graphs/Top%203/Top%203%20Locality%20based%20on%20Voting.png" height="200">
 </a></p>
 
-7. The restaurant that has got highest number of votings is Toit that has got 10934 votings and belongs to country India, followed by Hauz Khas Social and Peter Cat.
+7. The restaurant that has got highest number of voting is Toit that has got 10934 voting and belongs to country India, followed by Hauz Khas Social and Peter Cat.
 
 <p align="center">
 <a><img src="https://github.com/Ritika821/Zomato-Excel-Data-Analysis/blob/main/Graphs/Top%203/Top%203%20Restro%20based%20on%20Votings.png" height="200">
 </a></p>
 
-8. City Bangalore is worldwide famous in case of restaurants and has got maximum number of average votings i.e. 2806 votes and belongs to country India, followed by Kolkata and Mumbai.
+8. City Bangalore is worldwide famous in case of restaurants and has got maximum number of average voting i.e. 2806 votes and belongs to country India, followed by Kolkata and Mumbai.
 
 <p align="center">
 <a><img src="https://github.com/Ritika821/Zomato-Excel-Data-Analysis/blob/main/Graphs/Top%203/Top%203%20Cities%20based%20on%20Votings.png" height="200">
 </a></p>
 
-9. City New Delhi has the maximum number of restaurants in the world and is belongs to country India, followed by Guragaon and Noida.
+9. City New Delhi has the maximum number of restaurants in the world and is belongs to country India, followed by Gurgaon and Noida.
 
 <p align="center">
 <a><img src="https://github.com/Ritika821/Zomato-Excel-Data-Analysis/blob/main/Graphs/Top%203/Top%203%20Cities%20based%20on%20Total%20Restro.png" height="200">
@@ -120,7 +119,7 @@ In this Project, I have calculated the total numbers of worldwide restaurant as 
 <a><img src="https://github.com/Ritika821/Zomato-Excel-Data-Analysis/blob/main/Graphs/City%20Wise/City%20wise%20Average%20Cost%20for%20Two.png" height="200">
 </a></p>
 
-14. The city that has got the highest average votings is Bangalore which belongs from country India followed by Kolkata and Mumbai and the city that has got the least average voting is Consort followed by Cochrane and Potrero.
+14. The city that has got the highest average voting is Bangalore which belongs from country India followed by Kolkata and Mumbai and the city that has got the least average voting is Consort followed by Cochrane and Potrero.
 
 <p align="center">
 <a><img src="https://github.com/Ritika821/Zomato-Excel-Data-Analysis/blob/main/Graphs/City%20Wise/City%20wise%20Average%20Votes.png" height="200">
@@ -137,7 +136,7 @@ In this Project, I have calculated the total numbers of worldwide restaurant as 
 
 ## Conclusion :
 
-This Project is helpful in analysizing the sales market of Zomato. From this Project I would like to conclude that as Zomato is an Indian Company thats why is market is broader in India than in other countries as it is linked with only 15 countries and out of that 15 countries, It has greatly expanded its routes in India therefore all the top items from different categories are from India only. In India it has main markets in Bangalore, Mumbai and Delhi. Currently the services of Zomato is also limited which creates a breaker in its expansion. If the company will focus upon their advance services then they may be able to expand their branch and market worldwide. The main motive of this project is to gain knowledge about Zomato Company and its worldwide connections and to learn new features of excel.
+This Project is helpful in analyzing the sales market of Zomato. From this Project I would like to conclude that as Zomato is an Indian Company that's why is market is broader in India than in other countries as it is linked with only 15 countries and out of that 15 countries, It has greatly expanded its routes in India therefore all the top items from different categories are from India only. In India it has main markets in Bangalore, Mumbai and Delhi. Currently the services of Zomato is also limited which creates a breaker in its expansion. If the company will focus upon their advance services then they may be able to expand their branch and market worldwide. The main motive of this project is to gain knowledge about Zomato Company and its worldwide connections and to learn new features of excel.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
